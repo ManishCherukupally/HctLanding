@@ -15,7 +15,8 @@ const SectionOne = () => {
         borderRadius: 15,
         gap: 15
     };
-
+ console.log("Hello");
+ 
     return (
         <section id="section-one">
             <Container>
